@@ -31,6 +31,8 @@ gem "cssbundling-rails"
 gem "jbuilder"
 
 gem 'devise'
+
+gem 'fast_jsonapi'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 

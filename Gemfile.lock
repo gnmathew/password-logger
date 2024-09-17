@@ -98,6 +98,8 @@ GEM
       responders
       warden (~> 1.2.3)
     erubi (1.13.0)
+    fast_jsonapi (1.5)
+      activesupport (>= 4.2)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.6)
@@ -251,6 +253,7 @@ DEPENDENCIES
   cssbundling-rails
   debug
   devise
+  fast_jsonapi
   jbuilder
   jsbundling-rails
   mysql2 (~> 0.5)
